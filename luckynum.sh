@@ -2,7 +2,7 @@
 
 echo 'enter a number'
 read n
-if [[ ( $n -eq 55 || $n -eq 99 || $n -eq 12 || $n -eq 36 ) ]]
+if [[ ( $n -eq 55 || $n -eq 99 || $n -eq 12 || $n -eq 36 || $n -eq 18 ) ]]
 then
 	echo 'you won the game'
 else
