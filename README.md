@@ -1,5 +1,6 @@
 # luckynumber.sh
 ![Screenshot](screenshot.png)
+
 an shell script based game
 i made it all myself
 hope you have fun :)
