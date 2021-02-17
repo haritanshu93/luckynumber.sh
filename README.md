@@ -1,12 +1,12 @@
 # luckynumber.sh
 ![Screenshot](screenshot.png)
 
-an shell script based game
+an shell script based game...
 
-i made it all myself
+i made it all myself...
 
-hope you have fun :)
+hope you have fun :) ...
 
-just run bash luckynum.sh
+just run bash luckynum.sh...
 
-or run chmod a+x luckynum.sh and then run ./luckynum.sh
+or run chmod a+x luckynum.sh and then run ./luckynum.sh...
